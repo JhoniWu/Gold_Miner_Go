@@ -11,7 +11,7 @@ public class GameStart extends JFrame {
 		this.setVisible(true);
 		this.setSize(800,700);
 		this.setLocationRelativeTo(null);
-		this.setTitle("萝莉矿工");
+		this.setTitle("黄金矿工");
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		while (true)
 		{
